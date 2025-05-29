@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @debfantom
 - 👀 I’m interested in ...data
-- 🌱 I’m currently learning ...github
+- 🌱 I’m currently learning ...ml/ai
 - 💞️ I’m looking to collaborate on ...analytics
 - 📫 How to reach me ...slack, email
 
